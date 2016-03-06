@@ -1,0 +1,5 @@
+#/bin/bash
+while true; do
+  node example/index.js;
+  sleep 1;
+done

@@ -1,0 +1,9 @@
+{
+  "#bottesting": [
+    {
+      "name": "testCommand",
+      "message": "Yes, you are testCommand $$USER$$",
+      "perms": "chanop"
+    }
+  ]
+}
